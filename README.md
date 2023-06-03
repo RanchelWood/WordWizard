@@ -7,7 +7,7 @@ So, without further ado, that's jump on in!
 
 ## Personal Thoughts about Voc-learning
 
-It is always my opinion that "words" themselves is NEVER alone. **They come with sentences.** Every time you encounter a word, you note it down **WITH THE SENTENCE**,and check it out multiple times, and it's in your pocket. In other words, in terms of memorizing (and mastering) it, sentences that you are familiar with matters.
+It is always my opinion that "words" themselves is NEVER alone. **They come with sentences.** Every time you encounter a word, you note it down **WITH THE SENTENCE**, and check it out multiple times, and it's in your pocket. In other words, in terms of memorizing (and mastering) it, sentences that you are familiar with matters.
 
 However, currently there is (surprisingly) so few softwares that satisfy such requirements: test the word you chosen by your own sentences. 
 
