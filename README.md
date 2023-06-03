@@ -30,25 +30,33 @@ Here's where you could test the words within your vault.
 > You must first select one or more words in the Inventory Page to open the word-testing popup window!
 
 window 1: 
+
 ![2](https://github.com/RanchelWood/WordWizard/assets/108978792/66892d40-6ecf-432c-b63e-fd0b699c25c9)
+
 If you press the button `Of course`, the program will skip to the next word. 
 
 window 2: 
+
 ![3](https://github.com/RanchelWood/WordWizard/assets/108978792/d683c6e6-7d45-4149-93df-baffeb6edeea)
+
 Differences between `Now I get it!` and `errr...`: the former will automatically oncheck the review box on the next page. But you can change it later whatsoever. 
 
 window 3: 
+
 ![4](https://github.com/RanchelWood/WordWizard/assets/108978792/f5777a0d-682f-4d78-a19d-34f257ecaf6d)
 
 ### Inventory Page 
 
 Here 's the place for managing the words within the vault. 
+
 ![5](https://github.com/RanchelWood/WordWizard/assets/108978792/1ede8f04-2a6f-4b11-b6e8-af461c9ffe3e)
 
 ### Progress Page
+
 ![6](https://github.com/RanchelWood/WordWizard/assets/108978792/f5e48557-2f95-4f39-b562-8d6ee6a0beab)
 
 ### Settings Page
+
 ![7](https://github.com/RanchelWood/WordWizard/assets/108978792/b4d54056-a826-46ce-b074-06739e63d7d6)
 
 
