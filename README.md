@@ -16,6 +16,7 @@ Thus, here comes Word Wizard! It features the functionality for user to **create
 So how to use this? 
 
 
+
 ## Tutorial of WordWizard
 
 It is worth noting that the software run 100% locally. No internet needed, and no risk of leaking your personal info. 
