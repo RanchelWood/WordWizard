@@ -1,5 +1,5 @@
-# WordWizard
-Hello there! I'm the software "WordWizard"'s solo developer RanchelWood. The following content consists of three parts: personal methodology towards expanding voc, tutorial for using the software, and finally, the structure of it. 
+# WordWizard intro
+Hello there! I'm the software "WordWizard"'s solo developer RanchelWood. The following content consists of three parts: personal methodology towards expanding voc, tutorial for using the software, and finally, the constructure of WordWizard. 
 
 So, without further ado, that's jump on in! 
 
@@ -52,6 +52,7 @@ Here 's the place for managing the words within the vault.
 
 ![5](https://github.com/RanchelWood/WordWizard/assets/108978792/1ede8f04-2a6f-4b11-b6e8-af461c9ffe3e)
 
+
 ### Progress Page
 
 ![6](https://github.com/RanchelWood/WordWizard/assets/108978792/f5e48557-2f95-4f39-b562-8d6ee6a0beab)
@@ -61,3 +62,10 @@ Here 's the place for managing the words within the vault.
 ![7](https://github.com/RanchelWood/WordWizard/assets/108978792/b4d54056-a826-46ce-b074-06739e63d7d6)
 
 
+## intro of Construction
+
+The project mainly consists of four parts: 
+- WordWizard.py: initialization & logic
+- various .ui file: GUI usage
+- WordWizard_database.db: store data of the words
+- saved_notes.txt: store notes in progress page
