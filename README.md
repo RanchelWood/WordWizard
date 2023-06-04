@@ -1,5 +1,5 @@
 # WordWizard intro
-Hello there! I'm the software "WordWizard"'s solo developer RanchelWood. The following content consists of three parts: personal methodology towards expanding voc, tutorial for using the software, and finally, the constructure of WordWizard. 
+Hello there! I'm the solo developer of the software "WordWizard". The following content consists of three parts: personal methodology towards expanding voc, tutorial for using the software, and finally, the constructure of WordWizard. 
 
 So, without further ado, that's jump on in! 
 
